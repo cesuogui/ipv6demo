@@ -3,7 +3,7 @@
 
 
 - ping测试地址：demo.ipv6wow.cn
-- 账号注册地址：http://reg.ipv6wow.cn:8888
+- 账号注册地址：https://reg.ipv6wow.cn
 
 
 
