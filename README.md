@@ -1,4 +1,4 @@
-# IPv6测试服务器登录器
+# IPv6wow测试服务器登录器
 使用登录器前必须先通过https://test-ipv6.com/ 测试，已获取公网IPv6地址
 
 - 账号注册地址：https://reg.ipv6wow.cn
