@@ -18,3 +18,9 @@ ping测试仅用于大致测试IPv6的物理延迟，不代表实际游戏延迟
 - 广东、上海20-30ms 
 - 北京、四川40-50ms
 - 黑龙江、西藏70-80ms
+
+### 游戏客户端：
+移动云盘：https://caiyun.139.com/m/i?045CgiB2lzSAA  提取码：8d7w   （不限速下载）
+
+### Release：
+百度云盘：https://pan.baidu.com/s/10JW9-CSI2sHqhoupmhhbvA   提取码：gitb
